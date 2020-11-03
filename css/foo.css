@@ -36,7 +36,7 @@ body {
 
 /* logo, banner and footer background are the same */
 .logo, .banner, .footer {
-    background-color: #888;  /* dark grey */
+    background-color: #e85d04;  /* orange */
 }
 
 /* Set font on dark areas to white */
@@ -58,19 +58,19 @@ body {
 
 .nav {
     grid-area: nav;
-    background-color: #DDD;  /* silver */
+    background-color: #dc2f02;  /* red */
     font-size: 150%;
     text-align: center;
 }
 
 .side {
     grid-area: side;
-    background-color: #333;
+    background-color: #dc2f02;
 }
 
 .main {
     grid-area: main;
-    background-color: #EEE;  /* very pale grey */
+    background-color: #f9c74f;  /*  Light yellow */
     border: solid 1px #CCC;
 }
 
@@ -88,14 +88,14 @@ h1, h2, h3, h4 {
 
 /* Navigation Links */
 .nav a {font-weight: bold;}
-.nav a:link, .nav a:visited {color: #AA0000;} /*dark red */
+.nav a:link, .nav a:visited {color: #FFFFFF;} /*dark red */
 .nav a:hover {color: #604830; text-decoration: none;} /* chocolate brown */
 
 
 /* links in page */
 a {font-weight: bold;}
-a:link{color: #AA0000;} /*dark_red */
-a:visited{color: #111177;} /* dark blue */
+a:link{color: #FFFFFF;} /* white */
+a:visited{color: #FFFFFF;} /* white */
 a:hover{color: #000;}    /* Black*/
 
 
@@ -123,6 +123,13 @@ a:hover{color: #000;}    /* Black*/
     font-weight: bold;
 }
 
+/* Results box Formatting */
+.results {
+    background-color: #f4ebe1;
+    border-radius: 10px;
+    border: 1px solid #000;
+    padding: 5px;
+}
 
 
 
