@@ -14,7 +14,7 @@
             </p>
             
             <p>
-                I have not tried every food in the world, so expect a lack of the exact type of meal that you are looking for, if that is the case for you and you would like to add a review to the website, please feel free to do so.
+                I have not tried every food in the world, so expect a lack of the exact type of meal that you are looking for, if that is the case for you and you would like to add a review to the website, please feel free to do so via the contact page.
             </p>
             
         </div>    <!-- / main -->
