@@ -22,7 +22,7 @@
 ?>
     
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-32">
     <meta name="description" content="Food Review Database">
     <meta name="keywords" content="Food, Review, Database, Breakfast,
                                    Lunch, Dinner, Desert, Ratings">
@@ -77,7 +77,7 @@
             <hr />
             
             Name Search<br />
-            Vegetarian Serach<br />
+            Vegetarian Search<br />
             Rating Search<br />
             Type Search<br />
         </div>

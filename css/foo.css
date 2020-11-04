@@ -131,6 +131,21 @@ a:hover{color: #000;}    /* Black*/
     padding: 5px;
 }
 
+/* Error Box formatting */
+.error {
+    background-color: #ffe0ed ; /*pale pink*/
+    border: 2px solid #8a1737; /* dark red border */
+    color: #8a1737; /* dark red */
+    border-radius: 5px;
+    padding: 20px;
+}
+
+/* form formatting */
+
+.search {
+    width: 200px;
+}
+
 
 
 
