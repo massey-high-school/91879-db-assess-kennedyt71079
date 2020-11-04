@@ -61,10 +61,10 @@
         <!-- Navigation goes here.  Edit BOTH the file name and the link name -->
         <div class="box nav">
             <a href="index.php">Home</a> | 
-            <a href="page1.php">Breakfast</a> | 
-            <a href="page2.php">Lunch</a> | 
-            <a href="page3.php">Dinner</a> | 
-            <a href="page4.php">Dessert</a> |
+            <a href="breakfast.php">Breakfast</a> | 
+            <a href="lunch.php">Lunch</a> | 
+            <a href="dinner.php">Dinner</a> | 
+            <a href="dessert.php">Dessert</a> |
             <a href="contact.php">Contact</a>
         </div>    <!-- / nav -->        
         
