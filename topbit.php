@@ -50,7 +50,7 @@
         <!-- logo image linking to home page goes here -->
         <a href="index.php">
             <div class="box logo"  title="Click here to go to the Home Page">
-            <img class="img-circle" src="images/berry_cool.jpg" width="150" height="150" alt="generic logo" />
+            <img class="img-circle" src="images/steak_logo.jpg" width="150" height="150" alt="steak logo" />
             
             </div>    <!-- / logo -->
         </a>

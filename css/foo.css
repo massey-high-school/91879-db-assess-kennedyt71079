@@ -36,7 +36,7 @@ body {
 
 /* logo, banner and footer background are the same */
 .logo, .banner, .footer {
-    background-color: #e85d04;  /* orange */
+    background-color: #844f2c;  /* brown */
 }
 
 /* Set font on dark areas to white */
@@ -58,19 +58,19 @@ body {
 
 .nav {
     grid-area: nav;
-    background-color: #dc2f02;  /* red */
+    background-color: #964e27;  /* lighter brown */
     font-size: 150%;
     text-align: center;
 }
 
 .side {
     grid-area: side;
-    background-color: #dc2f02;
+    background-color: #964e27;
 }
 
 .main {
     grid-area: main;
-    background-color: #f9c74f;  /*  Light yellow */
+    background-color: #d7a267;  /*  very light brown */
     border: solid 1px #CCC;
 }
 
